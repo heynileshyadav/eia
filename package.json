@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-  "@babel/plugin-proposal-private-property-in-object": "^7.1.0"
-},
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  },
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "^43.2.0",
     "@ckeditor/ckeditor5-react": "^9.3.0",
